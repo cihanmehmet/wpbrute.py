@@ -10,6 +10,7 @@ import subprocess
 #Concat : b3mb4m@mail.com
 #Youtube : http://www.youtube.com/watch?v=lZxzh-DgXW8
 #Example : wpbrute.py --url http://127.0.0.1/wordpress/wp-login.php  --username b3mb4m --list test.txt
+#I was did some mistakes will be release v2 soon !  
 
 
 class B3mB4m(object):
